@@ -41,3 +41,4 @@ jobs:
 
       - name: All AWS resources deleted
         run: echo '### All AWS resources deleted! :tada:' >> $GITHUB_STEP_SUMMARY
+        
